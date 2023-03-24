@@ -11,4 +11,4 @@ O **Firebase** é uma plataforma de desenvolvimento de aplicativos móveis do Go
 
 Por fim, o **Android** é um sistema operacional para dispositivos móveis que será utilizado para criar um aplicativo que permitirá o acesso aos dados de monitoramento coletados pelo sistema. O aplicativo será capaz de exibir gráficos e alertas com base nas informações coletadas pelos sensores.
 
-Em resumo, o projeto de monitoramento da umidade do solo, do ar e da temperatura ambiente é uma iniciativa importante para a preservação do meio ambiente e para a qualidade de vida das pessoas. Com o uso de tecnologias como o **Arduino**, **Raspberry Pi**, **Firebase** e **Android**, você poderá coletar, armazenar e processar dados em tempo real para garantir a eficácia do monitoramento.
+![Circuito feito no tinkercad](caminho/para/imagem.jpg)
