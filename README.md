@@ -11,4 +11,4 @@ O **Firebase** é uma plataforma de desenvolvimento de aplicativos móveis do Go
 
 Por fim, o **Android** é um sistema operacional para dispositivos móveis que será utilizado para criar um aplicativo que permitirá o acesso aos dados de monitoramento coletados pelo sistema. O aplicativo será capaz de exibir gráficos e alertas com base nas informações coletadas pelos sensores.
 
-![Circuito feito no tinkercad](caminho/para/imagem.jpg)
+![Circuito feito no tinkercad](images/Circuit-iot.png)
