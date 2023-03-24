@@ -10,5 +10,6 @@ O **Raspberry Pi** é um computador de placa única que também é utilizado em 
 O **Firebase** é uma plataforma de desenvolvimento de aplicativos móveis do Google que oferece diversos recursos para armazenamento e sincronização de dados em tempo real. Ele será utilizado para armazenar e processar os dados de monitoramento coletados pelos dispositivos.
 
 Por fim, o **Android** é um sistema operacional para dispositivos móveis que será utilizado para criar um aplicativo que permitirá o acesso aos dados de monitoramento coletados pelo sistema. O aplicativo será capaz de exibir gráficos e alertas com base nas informações coletadas pelos sensores.
-
+<div align="center">
 ![Circuit-IoT](https://user-images.githubusercontent.com/104802373/227652379-b39e78fe-d21c-4e9b-bb10-f166bc9d7916.png)
+</div>
